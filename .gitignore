@@ -46,3 +46,6 @@ temp/
 
 # Optional eslint cache
 .eslintcache
+
+# Exclude Agboedo-Ecommerce-Website directory
+Agboedo-Ecommerce-Website/
